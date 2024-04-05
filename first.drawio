@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T20:01:02.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Y9v0Fh3cqFEFSZaZv45Z" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T20:45:23.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="5_ggDxMpt-XuZBY36iCc" version="24.2.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2361" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -128,7 +128,7 @@
         <mxCell id="exuP65Xe-kyWdSPfGrK1-43" value="Dependent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="430" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="exuP65Xe-kyWdSPfGrK1-45" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="exuP65Xe-kyWdSPfGrK1-45" value="Employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="exuP65Xe-kyWdSPfGrK1-46" value="Admin_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
